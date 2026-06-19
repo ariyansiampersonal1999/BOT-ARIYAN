@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/Mmo26FF.jpeg" alt="SIAM BOT Banner" width="100%">
+  <img src="https://i.imgur.com/MPGq2GB.jpeg" alt="SIAM BOT V1 Banner" width="100%">
 </p>
 
 <h1 align="center">
-  <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="30px" alt="icon">
-  SIAM BOT V1
+  🚀 SIAM BOT V1
 </h1>
 
 <p align="center">
@@ -12,61 +11,35 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-20.x-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Version-v1.0-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Language-Bangla%20%7C%20English-success?style=flat-square">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Node.js-20.x-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Bangla%20%7C%20English-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
 ---
 
 # 👋 Welcome To SIAM BOT V1
 
-SIAM BOT V1 is a modern Messenger Chat Bot designed for speed, stability, and smart automation. Built with Node.js 20.x, it provides a smooth and powerful Messenger experience.
-
----
+SIAM BOT V1 is a modern Messenger Chat Bot built with Node.js for speed, stability, and smart automation.
 
 ## ✨ Features
 
-### 🤖 Smart AI Chat
-- AI Powered Auto Reply
-- SimSimi Integration
-- Fast Response System
+- 🤖 AI Powered Auto Reply
+- 💬 SimSimi Integration
+- 🌍 Multi Language Support
+- ⚡ Fast & Stable Performance
+- 🔧 Easy Setup & Deployment
+- 🛡️ Admin Control System
+- 🚫 Anti Spam Protection
 
-### 🌍 Multi Language Support
-- 🇧🇩 Bangla
-- 🇺🇸 English
-- 🇻🇳 Vietnamese
+## 👑 Developer
 
-### ⚡ High Performance
-- Optimized for Node.js 20.x
-- Fast Command Processing
-- Stable Runtime
+- Owner: SIAM
+- Bot Name: SIAM BOT V1
+- Platform: Messenger
+- Runtime: Node.js 20.x
 
-### 🔧 Easy Configuration
-- Simple config.json Setup
-- Mobile Friendly Deployment
-- Easy Command Management
-
-### 🛡 Security
-- Admin Control System
-- Permission Management
-- Anti-Spam Protection
-
----
-
-## 📋 Requirements
-
-- Node.js 20.x
-- Git
-- Messenger Account
-- Stable Internet Connection
-
----
-
-## 🚀 Installation
-
-### Clone Repository
-
-```bash
-git clone YOUR_REPOSITORY_LINK
+<p align="center">
+  Made with ❤️ by SIAM
+</p>
