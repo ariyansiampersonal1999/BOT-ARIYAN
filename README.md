@@ -33,13 +33,63 @@ SIAM BOT V1 is a modern Messenger Chat Bot built with Node.js for speed, stabili
 - 🛡️ Admin Control System
 - 🚫 Anti Spam Protection
 
-## 👑 Developer
+## 👨‍💻 Developer Information
 
-- Owner: SIAM
-- Bot Name: SIAM BOT V1
-- Platform: Messenger
-- Runtime: Node.js 20.x
+<div align="center">
+  <img src="https://i.imgur.com/D2vZKY3.jpeg" width="150" style="border-radius:50%;" alt="SIAM">
+</div>
 
-<p align="center">
-  Made with ❤️ by SIAM
-</p>
+<br>
+
+<div align="center">
+
+### 👑 SIAM
+
+**Founder • Developer • Maintainer**
+
+</div>
+
+| Information | Details |
+|------------|---------|
+| 👤 Name | **SIAM** |
+| 🤖 Project | **SIAM BOT V1** |
+| 🚀 Version | **1.0.0** |
+| 💻 Runtime | **Node.js 20.x** |
+| 🌐 Platform | **Facebook Messenger** |
+| 📧 Email | **ariyansiampersonal1999@gmail.com** |
+| 🔧 Maintainer | **SIAM** |
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092436852552)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariyansiampersonal1999)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariyansiampersonal1999@gmail.com)
+
+</div>
+
+---
+
+## 🏆 Credits
+
+- 👑 Project Owner: **SIAM**
+- 💻 Lead Developer: **SIAM**
+- 🚀 Maintainer: **SIAM**
+- ❤️ Special Thanks: **Open Source Community**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks For Visiting My Project ⭐
+
+**Made with ❤️ by SIAM**
+
+*Building Smart Messenger Experiences*
+
+</div>
